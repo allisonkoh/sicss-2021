@@ -1,1 +1,1 @@
-# SICSS-Princeton 2021  
+# SICSS 2021
